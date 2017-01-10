@@ -1,5 +1,11 @@
 # DCICheck
 
+Simple tool to verify if the DCI feature is enabled on your system.
+
+If you don't know what this is about check:
+
+https://media.ccc.de/v/33c3-8069-tapping_into_the_core
+
 # prerequisite
 
 Linux and MSR module:
