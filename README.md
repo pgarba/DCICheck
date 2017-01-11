@@ -24,10 +24,17 @@ sudo ./DCICheck
 
 # DCI Debug feature is enabled when you see this output
 ./DCICheck
+
 RAW ECX: 7FFAFBBF
+
 SDBG: 1
+
 SDBG feature found!
+
 SDFC register: C0000001
+
 Debug Interface Enabled: 1
+
 Debug Interface Lock: 1
+
 Debug Interface Debug Occurred: 1
