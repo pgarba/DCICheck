@@ -17,13 +17,13 @@ If the msr device is missing run the script supplied by msr-tools:
 https://github.com/01org/msr-tools/blob/master/MAKEDEV-cpuid-ms
 
 # Compile
-compile with clang main.c -o checkdci
+compile with clang main.c -o DCICheck
 
 # Run
-sudo ./checkdci
+sudo ./DCICheck
 
 # DCI Debug feature is enabled when you see this output
-./checkdci 
+./DCICheck 
 RAW ECX: 7FFAFBBF
 SDBG: 1
 SDBG feature found!
